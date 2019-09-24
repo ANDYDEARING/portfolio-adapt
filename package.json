@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-adapt",
+  "version": "1.0.0",
+  "description": "personal portfolio adapted from a template",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ANDYDEARING/portfolio-adapt.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Andy Dearing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ANDYDEARING/portfolio-adapt/issues"
+  },
+  "homepage": "https://github.com/ANDYDEARING/portfolio-adapt#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
