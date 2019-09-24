@@ -313,8 +313,8 @@ button:focus {
 /* Home Banner Area css
 ============================================================================================ */
 .banner-area .single_slide_banner {
-  background-size: cover;
-  background-repeat: no-repeat; }
+  background-size: cover !important;
+  background-repeat: no-repeat !important; }
 
 .banner-area .slide_bg1 {
   background: url(../img/banner/aqua-wood.jpg); }

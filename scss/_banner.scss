@@ -3,8 +3,8 @@
 
 .banner-area {
     .single_slide_banner {
-        background-size: cover;
-        background-repeat: no-repeat;
+        background-size: cover !important;
+        background-repeat: no-repeat !important;
     }
     .slide_bg1 {
         background: url(../img/banner/aqua-wood.jpg);
